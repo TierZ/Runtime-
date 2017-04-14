@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SevenVC.h
 //  Runtime练习
 //
 //  Created by 李清娟 on 2017/4/13.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "BaseVC.h"
-@interface ViewController : BaseVC
-
+@interface SevenVC : BaseVC
 
 @end
-
